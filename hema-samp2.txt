@@ -6,7 +6,7 @@
                 
 
 
-				<img src="_content/index/slider/banner_bg-1.jpg" class="ls-bg" alt="Slide backgr
+				<img src="_content/index/slider/banner_bg-11.jpg" class="ls-bg" alt="Slide backgr
 ound"/>
 
 
